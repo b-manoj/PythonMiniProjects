@@ -18,6 +18,6 @@ def is_palindrome(input_str):
     return True
 
 if __name__ == '__main__':
-    print(is_palindrome("123321"))         
+    print(is_palindrome("nithin"))         
         
      
